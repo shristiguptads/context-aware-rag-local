@@ -18,11 +18,17 @@ It allows users to extract and chunk textual data, build a FAISS index for seman
 ## Project Structure
 context-aware-rag-local/
 ├─ scripts/
+
 │ ├─ extract_and_chunk.py # Extracts and chunks passages
+
 │ ├─ build_faiss_index.py # Builds FAISS index
+
 ├─ passages.json # Stores extracted passages
-├─ venv/ # Python virtual environment (optional)
+
+
+
 ├─ README.md
+
 └─ requirements.txt # Python dependencies
 
 ---
@@ -69,6 +75,7 @@ Always use the virtual environment for Python commands to avoid conflicts.
 License
 
 MIT License
+
 
 
 ---
