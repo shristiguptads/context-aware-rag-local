@@ -1,0 +1,9 @@
+pip==23.3.2
+numpy
+faiss-cpu
+sentence-transformers
+pymupdf
+tqdm
+flask
+transformers
+torch
