@@ -17,6 +17,7 @@ It allows users to extract and chunk textual data, build a FAISS index for seman
 
 ## Project Structure
 context-aware-rag-local/
+
 ├─ scripts/
 
 │ ├─ extract_and_chunk.py # Extracts and chunks passages
@@ -79,3 +80,4 @@ MIT License
 
 
 ---
+
